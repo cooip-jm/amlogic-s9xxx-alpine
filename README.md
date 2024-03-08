@@ -7,7 +7,7 @@
 
 ## Links
 
-- [ophub armbian]([https://github.com/armbian/build](https://github.com/ophub/amlogic-s9xxx-armbian))
+- [ophub armbian](https://github.com/ophub/amlogic-s9xxx-armbian)
 - [armbian](https://github.com/armbian/build)
 - [unifreq](https://github.com/unifreq)
 - [kernel.org](https://kernel.org)
